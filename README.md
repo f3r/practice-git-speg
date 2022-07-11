@@ -2,3 +2,4 @@
 
 ## Autores
 - Airam
+- Pedro
