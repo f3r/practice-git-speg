@@ -2,3 +2,5 @@
 
 ## Autores
 - Airam
+- Pedro
+- Fer
